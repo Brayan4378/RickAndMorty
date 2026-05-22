@@ -59,3 +59,8 @@ GET /api/episode/:id - Detalle de episodio
 GET /api/episode/1,2,3 - Varios episodios  
 GET /api/location - Lista de ubicaciones  
 GET /api/location/:id - Detalle de ubicación
+
+ACLARACIÓN
+La implementacion del spin surge a traves de un proyecto que hice
+y me parece atractivo, considero que queda bien en este
+asi que decidi ponerlo.
